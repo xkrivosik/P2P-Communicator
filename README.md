@@ -1,0 +1,1 @@
+This is a semestral project of mine that I was required to complete for subject Principles Of Communication networks. It's a peer to peer communicator between two devices on the same network on which they can send each other text messages or files.
